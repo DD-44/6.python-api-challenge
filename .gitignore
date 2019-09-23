@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+starter_code/api_keys.py
+
+# Keys
+api_keys.py
